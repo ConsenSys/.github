@@ -1,0 +1,14 @@
+{
+    "name": "Consensys Test Pipeline Template",
+    "description": "Consensys Test Pipeline Template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$",
+        ".*\\.js$"
+    ]
+}

@@ -1,1 +1,2 @@
-# -.github
+# .github
+Consensys Test Pipeline Template
