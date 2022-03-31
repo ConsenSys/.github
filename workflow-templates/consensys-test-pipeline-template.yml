@@ -1,0 +1,4 @@
+name: Consensys Test Pipeline Template
+
+call-test:
+    uses: ConsenSys/.github/workflows/test.yml@main
